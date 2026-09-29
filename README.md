@@ -79,11 +79,6 @@ A web-based portal to book meeting rooms and conference halls online. It replace
 
 No build step or dependencies are needed.
 
-```bash
-git clone https://github.com/sakshiagarwal8949/Conference-Room-Booking-Portal.git
-cd Conference-Room-Booking-Portal
-```
-
 Open `index.html` in a browser, or serve the folder with the VS Code **Live Server** extension.
 
 ---

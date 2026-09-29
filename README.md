@@ -2,7 +2,7 @@
 
 A web-based portal to book meeting rooms and conference halls online. It replaces manual booking with a centralized system that has a calendar view, availability filtering and role-based access, so double bookings and scheduling conflicts are avoided.
 
-**Live demo:** https://sakshiagarwal8949.github.io/Conference-Room-Booking-Portal/
+**Live demo:** https://akshatagarwal94136.github.io/Conference-Room-Booking-Portal/
 
 ---
 
@@ -108,4 +108,4 @@ Open `index.html` in a browser, or serve the folder with the VS Code **Live Serv
 ## Author
 
 **Akshat Agarwal**
-GitHub: [@sakshiagarwal8949](https://github.com/sakshiagarwal8949)
+
